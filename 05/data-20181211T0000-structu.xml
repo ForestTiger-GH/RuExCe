@@ -1,0 +1,6549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GenericData xmlns:g="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/generic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message">
+	<Header>
+		<ID>7708234640-VSHP2016-422</ID>
+		<Test>false</Test>
+		<Prepared>0001-01-01</Prepared>
+		<Sender id="7708234640">
+			<Name xml:lang="ru">Федеральная служба государственной статистики</Name>
+		</Sender>
+		<DataSetAgency>7708234640</DataSetAgency>
+	</Header>
+	<DataSet>
+		<g:KeyFamilyRef>7708234640-VSHP2016-422</g:KeyFamilyRef>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="08000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="85,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="08000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="42,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="08000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="31,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="94,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="82,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="44000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="44000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="64,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="44000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="21,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="83,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="46,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="31,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="151,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="21,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="154,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="167,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="199,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="17000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="198,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="20000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="199,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="24000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="58,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="24000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="29000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="107,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="34000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="34000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="34000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="181,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="152,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="42000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="42000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="134,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="41,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="23,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="148,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="89,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="58,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="27,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03588PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03582583PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03593PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03587PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03599PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000643" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="78,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="57,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="14,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000030" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="14000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="71,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="15000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="17000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="96,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="17000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="76,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="17000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="17,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="17000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="20000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="20000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="83,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="24000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="41,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="24000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="40,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="29000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="65,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="29000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="34,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="29000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="24,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="29000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="34000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="94,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="34000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="75,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="95,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="80,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="38000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="42000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="95,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="42000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="72,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="58,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="42,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="46000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="61000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="97,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="61000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="99,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="150,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="121,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="103,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="37,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="154,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="90,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="97,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="30000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="33,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="30000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="124,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="84,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="08000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="14,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="08000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="158,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="10000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="105,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="44000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="103,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="64000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="116,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="68000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="68000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="75,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="68,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="56,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="55,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="47,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="76,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="69,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="65,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="27,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="85,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="49,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="29,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03593PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="86000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="86000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="86,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="57,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="11000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="11000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="79,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="87,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="63,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="21,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="45,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="71,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="41,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="47,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="58000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="90,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="58000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="80,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="58000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="19,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="93,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="54,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="35,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="79000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="79000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="82,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="79000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="47,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="60,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="23,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="12000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="99,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="47,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="90,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="54,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="33,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="97,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="45,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="82000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="99,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="82000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="27,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="82000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="71,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="83000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="83000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="25,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="96000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="96000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="22,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="96000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="77,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="96,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="50,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="45,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="70,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03582583PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03599PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="78,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="18,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="89000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="66,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="89000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="58,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="90,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="73,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="48,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="32,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="71,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="70,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="45,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="75,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="90,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="71,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="87,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="61,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="25,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="63,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="38,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="24,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="95,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="64,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="83,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="74,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="57,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="29,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03599PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="49,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="37,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="34,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71800000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="94,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71800000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="53,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71800000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="22,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71800000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71900000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71900000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="57,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71900000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="22,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71900000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="91,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="35,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="75000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="75000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="80,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="75000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="94,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="58,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="32,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="81000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="96,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="81000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="53,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="81000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="43,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="01000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="87,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="99,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="64,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="86,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="47,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="34,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="96,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="76,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="76,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="65,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="97,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="60,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="36,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="50000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="98,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="52,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="52000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="40,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="62,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="69000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="96,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="56,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="37,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03599PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000036" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="94,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="56,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="31,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03596PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="98000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="30000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="67,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="30000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="66,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03605PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="99,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03584PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="57,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03585PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="40,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03595PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03597PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03598PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="05000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="61000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="183,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="66000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="194,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="68000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="68000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="68000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="125,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="31,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="28000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="113,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="44,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="17,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="20,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="70000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="116,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="23,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="78000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="178,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="34,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="45000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="140,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="14,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000031" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="167,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="86000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="137,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="87000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="139,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="11000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="19000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="137,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="54,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="27000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="148,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="41000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="149,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="49000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="192,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="58000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="58000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="181,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="80,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="55,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="23,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="40000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="131,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000037_00000000039" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="170,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="79000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="154,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="35000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="03000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="175,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="12000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="12000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="12000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="136,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="18000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="174,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="60000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="189,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000038" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="155,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="82000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="129,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="83000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="83000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="122,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="96000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="158,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="07000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="174,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000033" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="155,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="80000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="134,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="88000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="88000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="88000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="189,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="89000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="33,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="89000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="31,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="89000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="189,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="92000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="175,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="51,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="37,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="94000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="149,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="11,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="97000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="196,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="29,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="15,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="57000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="157,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="24,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="10,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="33000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="123,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="22000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="153,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="53000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="112,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="36,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="56000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="146,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="36000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="154,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="16,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="63000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="196,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="73000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="73000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="73000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="198,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000034" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="162,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="37000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="100,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="65000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="181,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="132,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71800000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="109,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71900000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="127,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="8,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="71001000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="135,0000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="75000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="75000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="167,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="5,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="2,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="1,6000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="00000000035" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="120,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="84000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="81000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="81000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="87,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="93000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="93000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="88,8000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="93000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="159,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="95000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="30,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03609PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="95000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="28,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="95000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="153,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="01000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="12,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="01000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="01000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="187,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="76000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="102,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="13,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="4,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="04000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="142,2000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="3,3000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="0,5000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="P615PEod03604" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="25000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="140,1000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606609623PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="23,7000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03606PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="9,9000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03607PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="7,4000" />
+			</g:Obs>
+		</g:Series>
+		<g:Series>
+			<g:SeriesKey>
+				<g:Value concept="MEASURES_" value="Eod03608PP615-3" />
+				<g:Value concept="Category_Parent" value="2" />
+				<g:Value concept="Oktmo_Parent" value="32000000000" />
+			</g:SeriesKey>
+			<g:Obs>
+				<g:Time>2016</g:Time>
+				<g:ObsValue value="6,1000" />
+			</g:Obs>
+		</g:Series>
+	</DataSet>
+</GenericData>

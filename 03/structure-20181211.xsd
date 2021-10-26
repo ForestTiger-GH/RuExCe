@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Structure xmlns:common="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/common" xmlns:structure="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/structure" xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message">
+  <Header>
+    <ID>7708234640-VSHP2016-130</ID>
+    <Test>false</Test>
+    <Prepared>0001-01-01</Prepared>
+    <Sender id="7708234640">
+      <Name xml:lang="ru">Федеральная служба государственной статистики</Name>
+    </Sender>
+    <DataSetAgency>7708234640</DataSetAgency>
+  </Header>
+  <CodeLists>
+    <structure:CodeList id="MEASURES_" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Показатели</structure:Name>
+      <structure:Code value="Eod01379PCount">
+        <structure:Description xml:lang="ru">Показатель "Системы точного вождения и дистанционного контроля качества выполнения технологических процессов, как переносных, так и стационарных, вмонтированных в отдельные виды техники" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01370PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Капельная система орошения" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01371PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Биологические методы защиты растений от вредителей и болезней" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01372PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Система индивидуального кормления скота" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01373PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Методы бесклеточного содержания птицы" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01360PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Очистные сооружения на животноводческих фермах" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01374PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Система водоотведения и очистки производственных стоков" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01361PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Возобновляемые источники энергоснабжения" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01375PEod01158">
+        <structure:Description xml:lang="ru">Показатель "    биоэнергетические установки" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01376PEod01158">
+        <structure:Description xml:lang="ru">Показатель "    ветряные энергоустановки" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01375">
+        <structure:Description xml:lang="ru">    биоэнергетические установки</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01376">
+        <structure:Description xml:lang="ru">    ветряные энергоустановки</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01377">
+        <structure:Description xml:lang="ru">    солнечные батареи</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01379">
+        <structure:Description xml:lang="ru">Системы точного вождения и дистанционного контроля качества выполнения технологических процессов, как переносных, так и стационарных, вмонтированных в отдельные виды техники</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01370PCount">
+        <structure:Description xml:lang="ru">Показатель "Капельная система орошения" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01371PCount">
+        <structure:Description xml:lang="ru">Показатель "Биологические методы защиты растений от вредителей и болезней" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01372PCount">
+        <structure:Description xml:lang="ru">Показатель "Система индивидуального кормления скота" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01373PCount">
+        <structure:Description xml:lang="ru">Показатель "Методы бесклеточного содержания птицы" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01360PCount">
+        <structure:Description xml:lang="ru">Показатель "Очистные сооружения на животноводческих фермах" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01374PCount">
+        <structure:Description xml:lang="ru">Показатель "Система водоотведения и очистки производственных стоков" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01361PCount">
+        <structure:Description xml:lang="ru">Показатель "Возобновляемые источники энергоснабжения" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01377PEod01158">
+        <structure:Description xml:lang="ru">Показатель "    солнечные батареи" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01379PEod01158">
+        <structure:Description xml:lang="ru">Показатель "Системы точного вождения и дистанционного контроля качества выполнения технологических процессов, как переносных, так и стационарных, вмонтированных в отдельные виды техники" в процентах от показателя "в I полугодии 2016 года -Да"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01370">
+        <structure:Description xml:lang="ru">Капельная система орошения</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01371">
+        <structure:Description xml:lang="ru">Биологические методы защиты растений от вредителей и болезней</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01372">
+        <structure:Description xml:lang="ru">Система индивидуального кормления скота</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01373">
+        <structure:Description xml:lang="ru">Методы бесклеточного содержания птицы</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01375PCount">
+        <structure:Description xml:lang="ru">Показатель "    биоэнергетические установки" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01376PCount">
+        <structure:Description xml:lang="ru">Показатель "    ветряные энергоустановки" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01377PCount">
+        <structure:Description xml:lang="ru">Показатель "    солнечные батареи" в процентах от показателя "Число организаций"</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01360">
+        <structure:Description xml:lang="ru">Очистные сооружения на животноводческих фермах</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01374">
+        <structure:Description xml:lang="ru">Система водоотведения и очистки производственных стоков</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01361">
+        <structure:Description xml:lang="ru">Возобновляемые источники энергоснабжения</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Dim_Year_Code" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Раунд переписи</structure:Name>
+      <structure:Code value="2016">
+        <structure:Description xml:lang="ru">по результатам Всероссийской Сельскохозяйственной Переписи 2016 года</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Oktmo_Parent" agencyID="7708234640">
+      <structure:Name xml:lang="ru">ОКТМО (по состоянию на 1 января 2016 года)</structure:Name>
+      <structure:Code value="99000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Еврейской автономной области</structure:Description>
+      </structure:Code>
+      <structure:Code value="98000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Саха (Якутия)</structure:Description>
+      </structure:Code>
+      <structure:Code value="97000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чувашской Республики - Чувашии</structure:Description>
+      </structure:Code>
+      <structure:Code value="96000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чеченской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="95000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Хакасии</structure:Description>
+      </structure:Code>
+      <structure:Code value="93000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Тывы</structure:Description>
+      </structure:Code>
+      <structure:Code value="94000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Удмуртской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="92000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Татарстан (Татарстана)</structure:Description>
+      </structure:Code>
+      <structure:Code value="91000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Карачаево-Черкесской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="90000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Северная Осетия-Алания</structure:Description>
+      </structure:Code>
+      <structure:Code value="84000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Алтай</structure:Description>
+      </structure:Code>
+      <structure:Code value="89000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Мордовии</structure:Description>
+      </structure:Code>
+      <structure:Code value="88000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Марий Эл</structure:Description>
+      </structure:Code>
+      <structure:Code value="87000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Коми</structure:Description>
+      </structure:Code>
+      <structure:Code value="86000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Карелии</structure:Description>
+      </structure:Code>
+      <structure:Code value="85000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Калмыкии</structure:Description>
+      </structure:Code>
+      <structure:Code value="83000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кабардино-Балкарской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="82000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Дагестан</structure:Description>
+      </structure:Code>
+      <structure:Code value="81000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Бурятии</structure:Description>
+      </structure:Code>
+      <structure:Code value="80000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Башкортостан</structure:Description>
+      </structure:Code>
+      <structure:Code value="79000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Адыгеи (Адыгеи)</structure:Description>
+      </structure:Code>
+      <structure:Code value="78000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ярославской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="77000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чукотского автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="76000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Забайкальского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="75000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Челябинской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="73000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ульяновской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="71900000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Ямало-Ненецкого автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="71800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Ханты-Мансийского автономного округа - Югры</structure:Description>
+      </structure:Code>
+      <structure:Code value="71001000000">
+        <structure:Description xml:lang="ru">Тюменская область (без автономных округов)</structure:Description>
+      </structure:Code>
+      <structure:Code value="67000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования города федерального значения Севастополя</structure:Description>
+      </structure:Code>
+      <structure:Code value="66000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Смоленской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="65000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Свердловской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="70000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тульской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="69000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Томской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="71000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тюменской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="56000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Пензенской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="63000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Саратовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="61000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Рязанской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="68000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тамбовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="64000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Сахалинской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="60000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ростовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="58000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Псковской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="57800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Пермского края, входящие в состав Коми-Пермяцкого округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="57000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Пермского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="54000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Орловской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="53000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Оренбургской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="52000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Омской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="50000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Новосибирской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="49000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Новгородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="47000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Мурманской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="46000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Московской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="42000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Липецкой области</structure:Description>
+      </structure:Code>
+      <structure:Code value="45000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</structure:Description>
+      </structure:Code>
+      <structure:Code value="44000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Магаданской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="41000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ленинградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="40000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Города Санкт-Петербурга (города федерального значения)</structure:Description>
+      </structure:Code>
+      <structure:Code value="38000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Курской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="37000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Курганской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="36000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Самарской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="34000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Костромской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="33000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кировской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="32000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кемеровской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="30800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Камчатского края, входящие в состав Корякского округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="30000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Камчатского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="29000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Калужской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="28000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тверской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="27000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Калининградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="26000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Ингушетии</structure:Description>
+      </structure:Code>
+      <structure:Code value="25000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Иркутской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="24000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ивановской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="22000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Нижегородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="20000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Воронежской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="19000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Вологодской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="18000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Волгоградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="35000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Крым</structure:Description>
+      </structure:Code>
+      <structure:Code value="14000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Белгородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="17000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Владимирской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="15000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Брянской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="12000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Астраханской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="11800000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ненецкого автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="11001000000">
+        <structure:Description xml:lang="ru">Архангельская область (без автономного округа)</structure:Description>
+      </structure:Code>
+      <structure:Code value="08000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Хабаровского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="07000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ставропольского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="11000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Архангельской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="10000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Амурской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="01000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Алтайского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000643">
+        <structure:Description xml:lang="ru">Муниципальные образования Российской Федерации</structure:Description>
+      </structure:Code>
+      <structure:Code value="05000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Приморского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="04000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Красноярского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="03000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Краснодарского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000038">
+        <structure:Description xml:lang="ru">СЕВЕРО-КАВКАЗСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000039">
+        <structure:Description xml:lang="ru">КРЫМСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000037">
+        <structure:Description xml:lang="ru">ЮЖНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000035">
+        <structure:Description xml:lang="ru">СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000037_35000000000_67000000000">
+        <structure:Description xml:lang="ru">ЮЖНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ (на 27 июля 2016 года)</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000036">
+        <structure:Description xml:lang="ru">ДАЛЬНЕВОСТОЧНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000031">
+        <structure:Description xml:lang="ru">СЕВЕРО-ЗАПАДНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000030">
+        <structure:Description xml:lang="ru">ЦЕНТРАЛЬНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000034">
+        <structure:Description xml:lang="ru">УРАЛЬСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000033">
+        <structure:Description xml:lang="ru">ПРИВОЛЖСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Category_Parent" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Категория хозяйства</structure:Name>
+      <structure:Code value="72_4">
+        <structure:Description xml:lang="ru">Сельскохозяйственные организации без учета подсобных сельскохозяйственных предприятий несельскохозяйственных организаций</structure:Description>
+      </structure:Code>
+      <structure:Code value="72">
+        <structure:Description xml:lang="ru">сельскохозяйственные организации, не относящиеся к субъектам малого предпринимательства</structure:Description>
+      </structure:Code>
+      <structure:Code value="4">
+        <structure:Description xml:lang="ru">Малые предприятия, включая микропредприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="11">
+        <structure:Description xml:lang="ru">Малые предприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="61">
+        <structure:Description xml:lang="ru">Микропредприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="8">
+        <structure:Description xml:lang="ru">Крестьянские (фермерские) хозяйства и индивидуальные предприниматели</structure:Description>
+      </structure:Code>
+      <structure:Code value="16">
+        <structure:Description xml:lang="ru">крестьянские (фермерские) хозяйства</structure:Description>
+      </structure:Code>
+      <structure:Code value="29">
+        <structure:Description xml:lang="ru">индивидуальные предприниматели</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+  </CodeLists>
+  <KeyFamilies>
+    <structure:KeyFamily id="7708234640-VSHP2016-130" agencyID="7708234640" isFinal="true">
+      <structure:Name xml:lang="ru">Росстат</structure:Name>
+      <structure:Description xml:lang="ru">ЧИСЛО СЕЛЬСКОХОЗЯЙСТВЕННЫХ ОРГАНИЗАЦИЙ, КРЕСТЬЯНСКИХ (ФЕРМЕРСКИХ) ХОЗЯЙСТВ И ИНДИВИДУАЛЬНЫХ ПРЕДПРИНИМАТЕЛЕЙ, ПРИМЕНЯВШИХ ИННОВАЦИОННЫЕ ТЕХНОЛОГИИ</structure:Description>
+      <structure:Components>
+        <structure:Dimension conceptRef="MEASURES_" conceptAgency="7708234640" codelist="MEASURES_" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:Dimension conceptRef="Oktmo_Parent" conceptAgency="7708234640" codelist="Oktmo_Parent" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:Dimension conceptRef="Category_Parent" conceptAgency="7708234640" codelist="Category_Parent" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:TimeDimension conceptRef="Dim_Year_Code" conceptAgency="7708234640" codelist="Dim_Year_Code" codelistAgency="7708234640">
+          <structure:TextFormat textType="ObservationalTimePeriod" />
+        </structure:TimeDimension>
+        <structure:PrimaryMeasure conceptRef="OBS_VALUE" conceptAgency="7708234640">
+          <structure:TextFormat textType="Double" />
+        </structure:PrimaryMeasure>
+      </structure:Components>
+    </structure:KeyFamily>
+  </KeyFamilies>
+</Structure>
