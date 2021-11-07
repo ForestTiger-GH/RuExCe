@@ -1,0 +1,667 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Structure xmlns:common="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/common" xmlns:structure="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/structure" xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message">
+  <Header>
+    <ID>7708234640-VSHP2016-44</ID>
+    <Test>false</Test>
+    <Prepared>0001-01-01</Prepared>
+    <Sender id="7708234640">
+      <Name xml:lang="ru">Федеральная служба государственной статистики</Name>
+    </Sender>
+    <DataSetAgency>7708234640</DataSetAgency>
+  </Header>
+  <CodeLists>
+    <structure:CodeList id="MEASURES_" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Показатели</structure:Name>
+      <structure:Code value="Eod01519D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: фасоль, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01520D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: чечевица, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01521D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: бобы кормовые на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P176D1000">
+        <structure:Description xml:lang="ru">рожь – всего , тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01504D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: рожь озимая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01505D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: рожь яровая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P177D1000">
+        <structure:Description xml:lang="ru">ячмень – всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01506D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: ячмень озимый, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01507D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: ячмень яровой, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01529D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: ячмень яровой пивоваренный, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01509D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: овес, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01510D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: кукуруза на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01511D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: просо, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01512D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: гречиха, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01513D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: рис, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01514D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: сорго на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P160D1000">
+        <structure:Description xml:lang="ru">тритикале – всего , тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01515D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: тритикале озимая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01617D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: кормовые культуры на силос (без кукурузы), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01618D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: кукуруза на корм, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01619D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: корнеплодные кормовые культуры, включая свеклу сахарную на корм скоту, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01620D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: бахчевые кормовые культуры, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01621D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: семенники и маточники кормовых культур, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01622D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: прочие кормовые, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01500D1000">
+        <structure:Description xml:lang="ru">Всего посевов под урожай 2016 года, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01501D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P173D1000">
+        <structure:Description xml:lang="ru">Озимые зерновые культуры – всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P174D1000">
+        <structure:Description xml:lang="ru">Яровые зерновые культуры – всего , тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P175D1000">
+        <structure:Description xml:lang="ru">пшеница – всего , тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01502D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: пшеница озимая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01503D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: пшеница яровая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01516D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: тритикале яровая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01517D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01518D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: горох, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01593D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: кабачки, патиссоны, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01594D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: тыква столовая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01595D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: перец сладкий, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01596D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: баклажаны, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01597D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: салатные культуры, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01598D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: зеленные культуры, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01599D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: прочие овощи, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01600D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: лук-севок, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01601D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: маточники и семенники овощных и бахчевых культур, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P181D1000">
+        <structure:Description xml:lang="ru">продовольственные бахчевые культуры   - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01602D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: арбузы столовые, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01603D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: дыни, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01610D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P219D1000">
+        <structure:Description xml:lang="ru">пшеница твердая - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01526D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: пшеница озимая твердая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01527D1000">
+        <structure:Description xml:lang="ru">Зерновые и зернобобовые культуры: пшеница яровая твердая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01548D1000">
+        <structure:Description xml:lang="ru">Технические культуры: табак, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01549D1000">
+        <structure:Description xml:lang="ru">Технические культуры: махорка, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01550D1000">
+        <structure:Description xml:lang="ru">Технические культуры: цикорий, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01576D1000">
+        <structure:Description xml:lang="ru">Технические культуры: прочие (канатник, чуфа, люфа, ворсянка, фацелия и др.), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01580D1000">
+        <structure:Description xml:lang="ru">Картофель, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01581D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P180D1000">
+        <structure:Description xml:lang="ru">овощи открытого грунта – всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01582D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: капуста всех видов, кроме цветной и брокколи, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01583D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: капуста цветная и брокколи, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01584D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: огурцы, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01585D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: помидоры, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01586D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: свекла столовая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01587D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: морковь столовая, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01588D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: лук репчатый, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01611D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: травы однолетние, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P182D1000">
+        <structure:Description xml:lang="ru">травы многолетние, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01612D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: травы многолетние бобовые, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01616D1000">
+        <structure:Description xml:lang="ru">Кормовые культуры: травы многолетние злаковые, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01535D1000">
+        <structure:Description xml:lang="ru">Технические культуры: свекла сахарная (кроме кормовой), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01536D1000">
+        <structure:Description xml:lang="ru">Технические культуры: семенники сахарной свеклы и маточники, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P179D1000">
+        <structure:Description xml:lang="ru">Масличные культуры – всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01537D1000">
+        <structure:Description xml:lang="ru">Технические культуры: подсолнечник на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01538D1000">
+        <structure:Description xml:lang="ru">Технические культуры: лен-кудряш (масличный), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01539D1000">
+        <structure:Description xml:lang="ru">Технические культуры: клещевина, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01540D1000">
+        <structure:Description xml:lang="ru">Технические культуры: соя, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="P178D1000">
+        <structure:Description xml:lang="ru">рапс – всего , тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01541D1000">
+        <structure:Description xml:lang="ru">Технические культуры: рапс озимый, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01542D1000">
+        <structure:Description xml:lang="ru">Технические культуры: рапс яровой (кольза), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01543D1000">
+        <structure:Description xml:lang="ru">Технические культуры: горчица, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01544D1000">
+        <structure:Description xml:lang="ru">Технические культуры: рыжик, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01545D1000">
+        <structure:Description xml:lang="ru">Технические культуры: кунжут, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01589D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: чеснок, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01590D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: зеленый горошек, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01591D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: фасоль овощная, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01592D1000">
+        <structure:Description xml:lang="ru">Овощные и бахчевые культуры открытого грунта: кукуруза сахарная, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01522D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: вика и виковая смесь на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01523D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: люпин кормовой (сладкий) на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01524D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: люпин горький на зерно, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01564D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: нут, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01546D1000">
+        <structure:Description xml:lang="ru">Технические культуры: сафлор, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01547D1000">
+        <structure:Description xml:lang="ru">Технические культуры: мак масличный, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01551D1000">
+        <structure:Description xml:lang="ru">Технические культуры: прочие масличные культуры (сурепица, перилла, ляллеманция и др.), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01552D1000">
+        <structure:Description xml:lang="ru">Технические культуры: эфирно-масличные культуры (посева текущего года и прошлых лет), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01565D1000">
+        <structure:Description xml:lang="ru">Технические культуры: лекарственные культуры, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01525D1000">
+        <structure:Description xml:lang="ru">Зернобобовые культуры: прочие зернобобовые (чина, маш, сераделла и др.), тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01530D1000">
+        <structure:Description xml:lang="ru">Технические культуры - всего, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01531D1000">
+        <structure:Description xml:lang="ru">Технические культуры: лен-долгунец, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01532D1000">
+        <structure:Description xml:lang="ru">Технические культуры: конопля среднерусская, тыс. га</structure:Description>
+      </structure:Code>
+      <structure:Code value="Eod01533D1000">
+        <structure:Description xml:lang="ru">Технические культуры: конопля южная, тыс. га</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Dim_Year_Code" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Раунд переписи</structure:Name>
+      <structure:Code value="2016">
+        <structure:Description xml:lang="ru">по результатам Всероссийской Сельскохозяйственной Переписи 2016 года</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Oktmo_Parent" agencyID="7708234640">
+      <structure:Name xml:lang="ru">ОКТМО (по состоянию на 1 января 2016 года)</structure:Name>
+      <structure:Code value="99000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Еврейской автономной области</structure:Description>
+      </structure:Code>
+      <structure:Code value="98000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Саха (Якутия)</structure:Description>
+      </structure:Code>
+      <structure:Code value="96000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чеченской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="95000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Хакасии</structure:Description>
+      </structure:Code>
+      <structure:Code value="97000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чувашской Республики - Чувашии</structure:Description>
+      </structure:Code>
+      <structure:Code value="94000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Удмуртской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="92000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Татарстан (Татарстана)</structure:Description>
+      </structure:Code>
+      <structure:Code value="93000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Тывы</structure:Description>
+      </structure:Code>
+      <structure:Code value="91000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Карачаево-Черкесской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="90000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Северная Осетия-Алания</structure:Description>
+      </structure:Code>
+      <structure:Code value="89000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Мордовии</structure:Description>
+      </structure:Code>
+      <structure:Code value="88000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Марий Эл</structure:Description>
+      </structure:Code>
+      <structure:Code value="86000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Карелии</structure:Description>
+      </structure:Code>
+      <structure:Code value="85000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Калмыкии</structure:Description>
+      </structure:Code>
+      <structure:Code value="87000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Коми</structure:Description>
+      </structure:Code>
+      <structure:Code value="84000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Алтай</structure:Description>
+      </structure:Code>
+      <structure:Code value="83000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кабардино-Балкарской Республики</structure:Description>
+      </structure:Code>
+      <structure:Code value="82000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Дагестан</structure:Description>
+      </structure:Code>
+      <structure:Code value="81000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Бурятии</structure:Description>
+      </structure:Code>
+      <structure:Code value="80000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Башкортостан</structure:Description>
+      </structure:Code>
+      <structure:Code value="79000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Адыгеи (Адыгеи)</structure:Description>
+      </structure:Code>
+      <structure:Code value="78000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ярославской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="76000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Забайкальского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="75000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Челябинской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="73000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ульяновской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="71900000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Ямало-Ненецкого автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="71800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Ханты-Мансийского автономного округа - Югры</structure:Description>
+      </structure:Code>
+      <structure:Code value="71001000000">
+        <structure:Description xml:lang="ru">Тюменская область (без автономных округов)</structure:Description>
+      </structure:Code>
+      <structure:Code value="77000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Чукотского автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="71000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тюменской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="70000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тульской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="67000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования города федерального значения Севастополя</structure:Description>
+      </structure:Code>
+      <structure:Code value="65000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Свердловской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="66000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Смоленской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="69000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Томской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="68000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тамбовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="64000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Сахалинской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="58000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Псковской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="60000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ростовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="63000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Саратовской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="61000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Рязанской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="57800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Пермского края, входящие в состав Коми-Пермяцкого округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="57000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Пермского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="56000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Пензенской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="53000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Оренбургской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="54000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Орловской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="52000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Омской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="47000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Мурманской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="46000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Московской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="45000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования города Москвы (столицы Российской Федерации города федерального значения)</structure:Description>
+      </structure:Code>
+      <structure:Code value="44000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Магаданской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="42000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Липецкой области</structure:Description>
+      </structure:Code>
+      <structure:Code value="50000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Новосибирской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="49000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Новгородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="40000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Города Санкт-Петербурга (города федерального значения)</structure:Description>
+      </structure:Code>
+      <structure:Code value="38000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Курской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="37000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Курганской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="36000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Самарской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="41000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ленинградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="34000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Костромской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="35000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Крым</structure:Description>
+      </structure:Code>
+      <structure:Code value="33000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кировской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="30800000000">
+        <structure:Description xml:lang="ru">Муниципальные районы и городские округа Камчатского края, входящие в состав Корякского округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="30000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Камчатского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="29000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Калужской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="32000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Кемеровской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="28000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Тверской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="20000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Воронежской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="26000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Республики Ингушетии</structure:Description>
+      </structure:Code>
+      <structure:Code value="25000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Иркутской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="24000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ивановской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="27000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Калининградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="22000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Нижегородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="19000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Вологодской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="18000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Волгоградской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="17000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Владимирской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="15000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Брянской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="14000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Белгородской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="11001000000">
+        <structure:Description xml:lang="ru">Архангельская область (без автономного округа)</structure:Description>
+      </structure:Code>
+      <structure:Code value="11000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Архангельской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="12000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Астраханской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="11800000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ненецкого автономного округа</structure:Description>
+      </structure:Code>
+      <structure:Code value="10000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Амурской области</structure:Description>
+      </structure:Code>
+      <structure:Code value="08000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Хабаровского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="07000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Ставропольского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000039">
+        <structure:Description xml:lang="ru">КРЫМСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000643">
+        <structure:Description xml:lang="ru">Муниципальные образования Российской Федерации</structure:Description>
+      </structure:Code>
+      <structure:Code value="05000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Приморского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="03000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Краснодарского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="04000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Красноярского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="01000000000">
+        <structure:Description xml:lang="ru">Муниципальные образования Алтайского края</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000037">
+        <structure:Description xml:lang="ru">ЮЖНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000037_35000000000_67000000000">
+        <structure:Description xml:lang="ru">ЮЖНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ (на 27 июля 2016 года)</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000034">
+        <structure:Description xml:lang="ru">УРАЛЬСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000035">
+        <structure:Description xml:lang="ru">СИБИРСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000038">
+        <structure:Description xml:lang="ru">СЕВЕРО-КАВКАЗСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000036">
+        <structure:Description xml:lang="ru">ДАЛЬНЕВОСТОЧНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000031">
+        <structure:Description xml:lang="ru">СЕВЕРО-ЗАПАДНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000030">
+        <structure:Description xml:lang="ru">ЦЕНТРАЛЬНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+      <structure:Code value="00000000033">
+        <structure:Description xml:lang="ru">ПРИВОЛЖСКИЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+    <structure:CodeList id="Category_Parent" agencyID="7708234640">
+      <structure:Name xml:lang="ru">Категория хозяйства</structure:Name>
+      <structure:Code value="72">
+        <structure:Description xml:lang="ru">сельскохозяйственные организации, не относящиеся к субъектам малого предпринимательства</structure:Description>
+      </structure:Code>
+      <structure:Code value="4">
+        <structure:Description xml:lang="ru">Малые предприятия, включая микропредприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="11">
+        <structure:Description xml:lang="ru">Малые предприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="61">
+        <structure:Description xml:lang="ru">Микропредприятия</structure:Description>
+      </structure:Code>
+      <structure:Code value="101">
+        <structure:Description xml:lang="ru">Сельскохозяйственные предприятия несельскохозяйственных организаций - всего</structure:Description>
+      </structure:Code>
+      <structure:Code value="2">
+        <structure:Description xml:lang="ru">Сельскохозяйственные организации</structure:Description>
+      </structure:Code>
+    </structure:CodeList>
+  </CodeLists>
+  <KeyFamilies>
+    <structure:KeyFamily id="7708234640-VSHP2016-44" agencyID="7708234640" isFinal="true">
+      <structure:Name xml:lang="ru">Росстат</structure:Name>
+      <structure:Description xml:lang="ru">ПОСЕВНЫЕ ПЛОЩАДИ СЕЛЬСКОХОЗЯЙСТВЕННЫХ КУЛЬТУР ПОД УРОЖАЙ 2016 ГОДА В СЕЛЬСКОХОЗЯЙСТВЕННЫХ ОРГАНИЗАЦИЯХ</structure:Description>
+      <structure:Components>
+        <structure:Dimension conceptRef="MEASURES_" conceptAgency="7708234640" codelist="MEASURES_" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:Dimension conceptRef="Oktmo_Parent" conceptAgency="7708234640" codelist="Oktmo_Parent" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:Dimension conceptRef="Category_Parent" conceptAgency="7708234640" codelist="Category_Parent" codelistAgency="7708234640">
+          <structure:TextFormat textType="String" />
+        </structure:Dimension>
+        <structure:TimeDimension conceptRef="Dim_Year_Code" conceptAgency="7708234640" codelist="Dim_Year_Code" codelistAgency="7708234640">
+          <structure:TextFormat textType="ObservationalTimePeriod" />
+        </structure:TimeDimension>
+        <structure:PrimaryMeasure conceptRef="OBS_VALUE" conceptAgency="7708234640">
+          <structure:TextFormat textType="Double" />
+        </structure:PrimaryMeasure>
+      </structure:Components>
+    </structure:KeyFamily>
+  </KeyFamilies>
+</Structure>
